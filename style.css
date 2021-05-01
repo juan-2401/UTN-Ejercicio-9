@@ -1,0 +1,51 @@
+body{
+    background-color: beige;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+hr{
+    margin: 20px 0;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    margin: 10px 0;
+}
+
+h4{
+    color: red;
+    text-align: center;
+    margin: 20px 0;
+}
+
+li{
+    margin: 10px 0 0 0;
+}
+
+ol li ol li{
+    list-style-type: upper-latin;
+}
+
+.boton{
+    text-align: center;
+    margin: 10px 0 25px 0;
+}
+
+.form-container { 
+    text-align: center;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    background-color: #E2E2E2;
+    border-radius: 15px;
+}
